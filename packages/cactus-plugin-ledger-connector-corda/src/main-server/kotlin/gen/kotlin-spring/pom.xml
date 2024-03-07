@@ -6,7 +6,7 @@
     <name>cactus-connector-corda-server</name>
     <version>0.3.0</version>
     <properties>
-        <kotlin.version>1.3.30</kotlin.version>
+        <kotlin.version>1.9.23</kotlin.version>
         <kotlinx-coroutines.version>1.2.0</kotlinx-coroutines.version>
         <javax-annotation-version>1.3.2</javax-annotation-version>
     </properties>
