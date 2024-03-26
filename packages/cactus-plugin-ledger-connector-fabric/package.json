@@ -78,7 +78,7 @@
     "@hyperledger/cactus-core-api": "0.7.0",
     "axios": "0.21.1",
     "bl": "1.2.3",
-    "express": "4.17.1",
+    "express": "4.19.2",
     "fabric-ca-client": "2.2.8",
     "fabric-common": "2.2.8",
     "fabric-network": "2.2.8",
