@@ -140,6 +140,6 @@
   "dependencies": {
     "@types/ssh2": "0.5.46",
     "artillery": "1.7.2",
-    "cspell": "5.4.0"
+    "cspell": "8.8.2"
   }
 }
