@@ -77,7 +77,7 @@
     "@hyperledger/cactus-core": "0.7.0",
     "@hyperledger/cactus-core-api": "0.7.0",
     "axios": "0.21.1",
-    "express-openapi-validator": "4.10.5",
+    "express-openapi-validator": "5.3.6",
     "internal-ip": "6.2.0",
     "joi": "14.3.1",
     "node-ssh": "11.1.0",
