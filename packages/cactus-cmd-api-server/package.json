@@ -95,8 +95,8 @@
     "prom-client": "13.1.0",
     "rxjs": "7.1.0",
     "semver": "7.3.2",
-    "socket.io": "4.0.1",
-    "socket.io-client": "4.0.1",
+    "socket.io": "4.8.0",
+    "socket.io-client": "4.8.0",
     "typescript-optional": "2.0.1",
     "uuid": "7.0.2"
   },
