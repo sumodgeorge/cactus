@@ -76,10 +76,10 @@
     "@hyperledger/cactus-core": "0.7.0",
     "@hyperledger/cactus-core-api": "0.7.0",
     "axios": "0.21.1",
-    "express": "4.17.1",
+    "express": "4.21.1",
     "prom-client": "13.1.0",
     "typescript-optional": "2.0.1",
-    "web3": "1.2.7",
+    "web3": "4.0.1",
     "web3-eth-contract": "1.2.7"
   },
   "devDependencies": {
