@@ -81,7 +81,7 @@
     "openapi-types": "7.0.1",
     "prom-client": "13.1.0",
     "typescript-optional": "2.0.1",
-    "web3": "1.2.7",
+    "web3": "1.4.0",
     "web3-utils": "1.2.7"
   },
   "devDependencies": {
