@@ -66,7 +66,7 @@
     "@hyperledger/cactus-common": "0.7.0",
     "axios": "0.21.1",
     "compare-versions": "3.6.0",
-    "dockerode": "3.2.0",
+    "dockerode": "4.0.5",
     "execa": "5.1.1",
     "fabric-ca-client": "2.2.8",
     "fabric-network": "2.2.8",
