@@ -68,7 +68,7 @@
     "@hyperledger/cactus-common": "2.1.0",
     "axios": "1.8.4",
     "compare-versions": "3.6.0",
-    "dockerode": "3.3.0",
+    "dockerode": "4.0.5",
     "elliptic": "6.6.1",
     "execa": "5.1.1",
     "fabric-ca-client": "2.5.0-snapshot.23",
@@ -90,8 +90,8 @@
     "temp": "0.9.4",
     "typescript-optional": "2.0.1",
     "uuid": "10.0.0",
-    "web3": "1.6.1",
-    "web3-core": "1.6.1",
+    "web3": "4.0.1",
+    "web3-core": "4.0.1",
     "web3-utils": "1.6.1"
   },
   "devDependencies": {
