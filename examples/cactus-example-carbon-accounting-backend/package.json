@@ -61,7 +61,7 @@
     "@hyperledger/cactus-plugin-keychain-memory": "2.1.0",
     "@hyperledger/cactus-plugin-ledger-connector-fabric": "2.1.0",
     "@hyperledger/cactus-plugin-ledger-connector-xdai": "2.1.0",
-    "@hyperledger/cactus-test-tooling": "2.1.0",
+    "@hyperledger/cactus-test-tooling": "2.0.0",
     "@openzeppelin/contracts": "4.9.6",
     "@openzeppelin/contracts-upgradeable": "4.9.6",
     "async-exit-hook": "2.0.1",
